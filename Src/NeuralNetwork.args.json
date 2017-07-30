@@ -1,0 +1,8 @@
+{
+  "DataCollection": [
+    {
+      "Id": "e545a2d5-189a-4686-89ff-6aeb892bfb50",
+      "Command": "-d ../../Example/ExampleDataSet.csv -in 16 -hidden 16 -out 3"
+    }
+  ]
+}

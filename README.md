@@ -1,5 +1,13 @@
 # NeuralNetwork
 Simple Back Propagation Neural Network
 
+The example code makes use of Florian Rappl's command parser: [github](https://github.com/FlorianRappl/CmdParser )
+
 # Disclaimer
-The code quality of this is rather awful. I wrote this over a decade ago when I was transitioning from C over to C++ as such the code is some sort of inbred chimera of styles. I would rewrite it but my current work contract forbids me from doing so. So please, use this code ONLY as a reference!
+This code is meant to be a simple implementation of the back-propagation neural network discussed in the tutorial below:
+
+[https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
+
+[https://takinginitiative.wordpress.com/2008/04/23/basic-neural-network-tutorial-c-implementation-and-source-code/](https://takinginitiative.wordpress.com/2008/04/23/basic-neural-network-tutorial-c-implementation-and-source-code/)
+
+It is intended as a reference/example implementation and will not be maintained or supported.
