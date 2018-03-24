@@ -25,7 +25,7 @@ namespace BPN
 
     bool TrainingDataReader::ReadData()
     {
-        assert( !filename.empty() );
+        assert( !m_filename.empty() );
 
         std::fstream inputFile;
         inputFile.open( m_filename, std::ios::in );
